@@ -1,0 +1,6 @@
+data/00/00/00/00/00.bin	cc699c6a
+data/00/00/00/00/01.bin	286b1cf8
+data/00/00/00/00/02.bin	291ebeca
+data/00/00/00/00/03.bin	b612776b
+data/00/00/00/00/04.bin	2966e083
+data/00/00/00/00/05.bin	0fdec5b3
